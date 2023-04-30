@@ -47,7 +47,7 @@ body {
     z-index: 998;
     left: 0;
     width: 220px;
-    height: 92vh;
+    height: 100%;
     padding-top: 100px;
     background-color: #EDEDED;
     margin-left: -220px;
